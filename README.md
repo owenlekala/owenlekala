@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>Hi, I’m Owen, a software developer passionate about transforming ideas into reality. Over the past few years, I’ve honed my skills in crafting innovative and custom software solutions for various industries.
 
-<br>My journey began in university, where I developed a keen interest in technology and entrepreneurship. This led me to work on diverse projects, driving innovation and solving complex problems with creative solutions.
+My journey began in university, where I developed a keen interest in technology and entrepreneurship. This led me to work on diverse projects, driving innovation and solving complex problems with creative solutions.
 
 <br>I’m always eager to take on new challenges and collaborate with like-minded individuals. Whether it's exploring new tech trends or brainstorming the next big idea, I thrive on continuous learning and growth.
 
