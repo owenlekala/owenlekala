@@ -1,11 +1,11 @@
 # 💫 About Me:
-<br>Hi, I’m Owen, a software developer passionate about transforming ideas into reality. Over the past few years, I’ve honed my skills in crafting innovative and custom software solutions for various industries.
+Hi, I’m Owen, a software engineer passionate about transforming ideas into reality. Over the past few years, I’ve honed my skills in crafting innovative and custom software solutions for various industries.
 
 My journey began in university, where I developed a keen interest in technology and entrepreneurship. This led me to work on diverse projects, driving innovation and solving complex problems with creative solutions.
 
-<br>I’m always eager to take on new challenges and collaborate with like-minded individuals. Whether it's exploring new tech trends or brainstorming the next big idea, I thrive on continuous learning and growth.
+I’m always eager to take on new challenges and collaborate with like-minded individuals. Whether it's exploring new tech trends or brainstorming the next big idea, I thrive on continuous learning and growth.
 
-<br>Let’s connect and work together to bring your next project to life!
+Let’s connect and work together to bring your next project to life!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lekalaowen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/owenlekala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owenlekala) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@owenlekala) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/owenlekala) 
