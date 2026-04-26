@@ -4,7 +4,7 @@ Software engineer based in South Africa, building products that solve real probl
 
 Currently building:
 - 🚗 **[HikeApp](https://hikeapp.co.za)** — a ride-sharing & carpooling platform for South Africa
-- ⚡ **CapFlow** — fintech tooling built on Next.js
+- ⚡ **[CapFlow](https://capflow.co.za)** — equity management & cap table tooling with digital agreements and funding round tracking
 
 I run **[TAGPROJECTS](https://tagprojects.co.za)** — a dev studio focused on early-stage startups and established businesses that need to scale.
 
