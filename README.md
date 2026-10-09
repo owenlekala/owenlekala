@@ -1,22 +1,27 @@
 # Hi, I'm Owen 👋
 
-Software engineer based in South Africa, building products that solve real problems. I work across the full stack — from mobile apps to cloud infrastructure — with a focus on scalable, production-ready systems.
+Full-stack software engineer. I build production web and mobile applications across the stack — from mobile apps and REST/GraphQL APIs to databases and cloud infrastructure.
 
-Currently building:
-- 🚗 **[HikeApp](https://hikeapp.co.za)** — a ride-sharing & carpooling platform for South Africa
-- ⚡ **[CapFlow](https://capflow.co.za)** — equity management & cap table tooling with digital agreements and funding round tracking
-
-I run **[TAGPROJECTS](https://tagprojects.co.za)** — a dev studio focused on early-stage startups and established businesses that need to scale.
+I'm currently a Full-Stack Developer at [TAGPROJECTS](https://tagprojects.co.za), a software development studio where I design, build, and ship custom software and SaaS platforms for startups, SMEs, and established businesses.
 
 ---
 
-## 🌐 Socials
+## 🧭 What I Work On
+
+- Full-stack web and mobile applications
+- Backend services and API design (REST, GraphQL, WebSockets)
+- Database design and management (PostgreSQL, MySQL, Redis, Firebase, Supabase)
+- Cloud deployment and DevOps (AWS, Docker, Nginx, GitHub Actions)
+- Authentication, authorisation, and role-based access control (RBAC)
+- Payment gateway and third-party service integrations
+- AI-assisted development workflows, with review and testing before production
+
+---
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owenlekala)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/owenlekala)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/owenlekala)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@owenlekala)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lekalaowen)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/owenlekala)
 
 ---
 
@@ -35,14 +40,17 @@ I run **[TAGPROJECTS](https://tagprojects.co.za)** — a dev studio focused on e
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & APIs**
 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **Infrastructure & DevOps**
 
@@ -50,14 +58,33 @@ I run **[TAGPROJECTS](https://tagprojects.co.za)** — a dev studio focused on e
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Databases**
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=owenlekala&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Selected Work
+
+- **CapFlow** — Digital equity and shareholder management platform for funding rounds, investor participation, and digital agreement signing.  
+  *Node.js, React, PHP/Laravel, PostgreSQL/MySQL*
+- **Thumamina** — Delivery platform connecting customers, businesses, and couriers with order tracking and status updates.  
+  *React Native, Node.js, Flutter, PostgreSQL, Firebase*
+- **Pulse Card** — Mobile-first digital loyalty card app replacing physical loyalty cards for retail customers.  
+  *Flutter, Dart, Firebase*
+- **SmoothPDF** — Browser-based text-to-PDF converter for generating formatted documents without desktop software.  
+  *Next.js, TypeScript, React, jsPDF*
+- **OrcadMailer** — Web-based email management application for managing hosted email accounts.  
+  *Next.js, TypeScript, React*
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/owenlekala](https://linkedin.com/in/owenlekala)
